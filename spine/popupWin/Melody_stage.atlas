@@ -1,0 +1,227 @@
+
+Melody_stage.png
+size: 1008,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b-c@2x
+  rotate: false
+  xy: 391, 913
+  size: 296, 93
+  orig: 304, 94
+  offset: 4, 1
+  index: -1
+board@2x
+  rotate: false
+  xy: 414, 58
+  size: 592, 304
+  orig: 592, 304
+  offset: 0, 0
+  index: -1
+dot_light_1
+  rotate: false
+  xy: 26, 989
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+eff_a
+  rotate: false
+  xy: 132, 974
+  size: 36, 32
+  orig: 38, 34
+  offset: 2, 1
+  index: -1
+eff_c
+  rotate: true
+  xy: 51, 988
+  size: 18, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+light_circle
+  rotate: true
+  xy: 713, 564
+  size: 188, 189
+  orig: 192, 193
+  offset: 2, 2
+  index: -1
+light_circle_2
+  rotate: false
+  xy: 2, 817
+  size: 155, 155
+  orig: 157, 157
+  offset: 1, 1
+  index: -1
+light_point
+  rotate: false
+  xy: 204, 174
+  size: 208, 208
+  orig: 219, 219
+  offset: 6, 5
+  index: -1
+light_stick
+  rotate: true
+  xy: 205, 942
+  size: 64, 184
+  orig: 70, 190
+  offset: 3, 3
+  index: -1
+loa-lo-n-2@2x
+  rotate: true
+  xy: 811, 868
+  size: 138, 162
+  orig: 138, 164
+  offset: 0, 0
+  index: -1
+no-t-1-b@3x
+  rotate: false
+  xy: 170, 973
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+no-t-1@2x
+  rotate: true
+  xy: 2, 990
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+no-t-2-b@2x
+  rotate: true
+  xy: 98, 982
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+no-t-2@2x
+  rotate: false
+  xy: 72, 988
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+pattern-board@2x
+  rotate: false
+  xy: 173, 573
+  size: 538, 179
+  orig: 538, 252
+  offset: 0, 67
+  index: -1
+stage-du-o-i@2x
+  rotate: false
+  xy: 2, 384
+  size: 668, 187
+  orig: 668, 190
+  offset: 0, 3
+  index: -1
+stage-du-o-i@2x_light
+  rotate: true
+  xy: 689, 891
+  size: 115, 120
+  orig: 121, 132
+  offset: 6, 6
+  index: -1
+stage-tre-n@2x
+  rotate: false
+  xy: 320, 754
+  size: 668, 112
+  orig: 668, 112
+  offset: 0, 0
+  index: -1
+star-1@2x (2)
+  rotate: true
+  xy: 159, 783
+  size: 157, 159
+  orig: 220, 220
+  offset: 33, 21
+  index: -1
+star-1@2x (3)
+  rotate: false
+  xy: 672, 364
+  size: 200, 198
+  orig: 206, 204
+  offset: 3, 2
+  index: -1
+star-2@2x
+  rotate: true
+  xy: 2, 613
+  size: 168, 169
+  orig: 234, 234
+  offset: 30, 22
+  index: -1
+star-2@2x (2)
+  rotate: false
+  xy: 2, 184
+  size: 200, 198
+  orig: 206, 204
+  offset: 3, 2
+  index: -1
+
+Melody_stage2.png
+size: 952,952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect-light-left@2x
+  rotate: true
+  xy: 2, 383
+  size: 305, 373
+  orig: 378, 406
+  offset: 60, 12
+  index: -1
+effect-win-4@2x
+  rotate: false
+  xy: 377, 290
+  size: 573, 398
+  orig: 578, 440
+  offset: 2, 40
+  index: -1
+m-ng-vui@2x
+  rotate: false
+  xy: 2, 690
+  size: 750, 260
+  orig: 750, 312
+  offset: 0, 0
+  index: -1
+
+Melody_stage3.png
+size: 981,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect-win-1@2x
+  rotate: false
+  xy: 2, 93
+  size: 486, 486
+  orig: 590, 590
+  offset: 52, 73
+  index: -1
+effect-win-3@2x
+  rotate: false
+  xy: 577, 577
+  size: 402, 402
+  orig: 404, 402
+  offset: 1, 0
+  index: -1
+effect-win-4@2x_light
+  rotate: false
+  xy: 2, 581
+  size: 573, 398
+  orig: 578, 440
+  offset: 2, 40
+  index: -1
+
+Melody_stage4.png
+size: 583,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect-win-2@2x
+  rotate: false
+  xy: 2, 2
+  size: 579, 579
+  orig: 626, 624
+  offset: 22, 22
+  index: -1
