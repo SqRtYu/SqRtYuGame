@@ -1,227 +1,104 @@
-
 Melody_stage.png
-size: 1008,1008
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1652,1652
+filter:Linear,Linear
+pma:true
 b-c@2x
-  rotate: false
-  xy: 391, 913
-  size: 296, 93
-  orig: 304, 94
-  offset: 4, 1
-  index: -1
+bounds:577,118,296,93
+offsets:4,1,304,94
 board@2x
-  rotate: false
-  xy: 414, 58
-  size: 592, 304
-  orig: 592, 304
-  offset: 0, 0
-  index: -1
+bounds:583,1084,592,304
 dot_light_1
-  rotate: false
-  xy: 26, 989
-  size: 23, 17
-  orig: 23, 17
-  offset: 0, 0
-  index: -1
+bounds:1627,1258,23,17
 eff_a
-  rotate: false
-  xy: 132, 974
-  size: 36, 32
-  orig: 38, 34
-  offset: 2, 1
-  index: -1
+bounds:1247,293,36,32
+offsets:2,1,38,34
 eff_c
-  rotate: true
-  xy: 51, 988
-  size: 18, 19
-  orig: 21, 21
-  offset: 1, 1
-  index: -1
-light_circle
-  rotate: true
-  xy: 713, 564
-  size: 188, 189
-  orig: 192, 193
-  offset: 2, 2
-  index: -1
-light_circle_2
-  rotate: false
-  xy: 2, 817
-  size: 155, 155
-  orig: 157, 157
-  offset: 1, 1
-  index: -1
-light_point
-  rotate: false
-  xy: 204, 174
-  size: 208, 208
-  orig: 219, 219
-  offset: 6, 5
-  index: -1
-light_stick
-  rotate: true
-  xy: 205, 942
-  size: 64, 184
-  orig: 70, 190
-  offset: 3, 3
-  index: -1
-loa-lo-n-2@2x
-  rotate: true
-  xy: 811, 868
-  size: 138, 162
-  orig: 138, 164
-  offset: 0, 0
-  index: -1
-no-t-1-b@3x
-  rotate: false
-  xy: 170, 973
-  size: 33, 33
-  orig: 33, 33
-  offset: 0, 0
-  index: -1
-no-t-1@2x
-  rotate: true
-  xy: 2, 990
-  size: 16, 22
-  orig: 16, 22
-  offset: 0, 0
-  index: -1
-no-t-2-b@2x
-  rotate: true
-  xy: 98, 982
-  size: 24, 32
-  orig: 24, 32
-  offset: 0, 0
-  index: -1
-no-t-2@2x
-  rotate: false
-  xy: 72, 988
-  size: 24, 18
-  orig: 24, 18
-  offset: 0, 0
-  index: -1
-pattern-board@2x
-  rotate: false
-  xy: 173, 573
-  size: 538, 179
-  orig: 538, 252
-  offset: 0, 67
-  index: -1
-stage-du-o-i@2x
-  rotate: false
-  xy: 2, 384
-  size: 668, 187
-  orig: 668, 190
-  offset: 0, 3
-  index: -1
-stage-du-o-i@2x_light
-  rotate: true
-  xy: 689, 891
-  size: 115, 120
-  orig: 121, 132
-  offset: 6, 6
-  index: -1
-stage-tre-n@2x
-  rotate: false
-  xy: 320, 754
-  size: 668, 112
-  orig: 668, 112
-  offset: 0, 0
-  index: -1
-star-1@2x (2)
-  rotate: true
-  xy: 159, 783
-  size: 157, 159
-  orig: 220, 220
-  offset: 33, 21
-  index: -1
-star-1@2x (3)
-  rotate: false
-  xy: 672, 364
-  size: 200, 198
-  orig: 206, 204
-  offset: 3, 2
-  index: -1
-star-2@2x
-  rotate: true
-  xy: 2, 613
-  size: 168, 169
-  orig: 234, 234
-  offset: 30, 22
-  index: -1
-star-2@2x (2)
-  rotate: false
-  xy: 2, 184
-  size: 200, 198
-  orig: 206, 204
-  offset: 3, 2
-  index: -1
-
-Melody_stage2.png
-size: 952,952
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+bounds:1253,947,18,19
+offsets:1,1,21,21
 effect-light-left@2x
-  rotate: true
-  xy: 2, 383
-  size: 305, 373
-  orig: 378, 406
-  offset: 60, 12
-  index: -1
-effect-win-4@2x
-  rotate: false
-  xy: 377, 290
-  size: 573, 398
-  orig: 578, 440
-  offset: 2, 40
-  index: -1
-m-ng-vui@2x
-  rotate: false
-  xy: 2, 690
-  size: 750, 260
-  orig: 750, 312
-  offset: 0, 0
-  index: -1
-
-Melody_stage3.png
-size: 981,981
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+bounds:1335,1277,305,373
+offsets:60,12,378,406
 effect-win-1@2x
-  rotate: false
-  xy: 2, 93
-  size: 486, 486
-  orig: 590, 590
-  offset: 52, 73
-  index: -1
-effect-win-3@2x
-  rotate: false
-  xy: 577, 577
-  size: 402, 402
-  orig: 404, 402
-  offset: 1, 0
-  index: -1
-effect-win-4@2x_light
-  rotate: false
-  xy: 2, 581
-  size: 573, 398
-  orig: 578, 440
-  offset: 2, 40
-  index: -1
-
-Melody_stage4.png
-size: 583,583
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+bounds:2,583,486,486
+offsets:52,73,590,590
 effect-win-2@2x
-  rotate: false
-  xy: 2, 2
-  size: 579, 579
-  orig: 626, 624
-  offset: 22, 22
-  index: -1
+bounds:2,1071,579,579
+offsets:22,22,626,624
+effect-win-3@2x
+bounds:1156,491,402,402
+offsets:1,0,404,402
+effect-win-4@2x
+bounds:2,183,573,398
+offsets:2,40,578,440
+effect-win-4@2x_light
+bounds:577,327,573,398
+offsets:2,40,578,440
+gia╠Çn 2 copy@5x
+bounds:1177,1099,53,289
+group-38@2x
+bounds:1287,55,17,43
+offsets:0,0,18,44
+light_circle
+bounds:1287,100,188,189
+offsets:2,2,192,193
+light_circle_2
+bounds:1494,334,155,155
+offsets:1,1,157,157
+light_point
+bounds:875,3,208,208
+offsets:6,5,219,219
+light_stick
+bounds:1232,1204,64,184
+offsets:3,3,70,190
+loa-lo-n-1-copy@2x
+bounds:1370,973,102,131
+offsets:1,1,104,132
+loa-lo-n-2-copy@2x
+bounds:1253,968,115,136
+offsets:2,0,118,138
+loa-lo-n-2@2x
+bounds:1152,327,138,162
+offsets:0,0,138,164
+m-ng-vui@2x
+bounds:583,1390,750,260
+offsets:0,0,750,312
+no-t-1-b@3x
+bounds:542,148,33,33
+no-t-1@2x
+bounds:1232,1180,16,22
+no-t-1@2x (1)
+bounds:490,681,58,44
+offsets:1,0,60,44
+no-t-2-b@2x
+bounds:1494,300,24,32
+no-t-2-b@2x (1)
+bounds:490,1012,74,57
+offsets:1,1,76,60
+no-t-2@2x
+bounds:1298,1370,24,18
+pattern-board@2x
+bounds:2,2,538,179
+offsets:0,67,538,252
+stage-du-o-i@2x
+bounds:583,895,668,187
+offsets:0,3,668,190
+stage-du-o-i@2x_light
+bounds:1474,994,115,120
+offsets:6,6,121,132
+stage-du-o-i@3x
+bounds:490,727,664,166
+offsets:2,23,668,190
+stage-tre-n@2x
+bounds:577,213,668,112
+star-1@2x (2)
+bounds:1468,1116,157,159
+offsets:33,21,220,220
+star-1@2x (3)
+bounds:1085,13,200,198
+offsets:3,2,206,204
+star-2@2x
+bounds:1298,1106,168,169
+offsets:30,22,234,234
+star-2@2x (2)
+bounds:1292,291,200,198
+offsets:3,2,206,204
